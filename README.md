@@ -1,5 +1,5 @@
 # recipe-website
-this is a project I made on vanilla js , html and css
+this is a project I made using vanilla js , html and css
 
 below are snapshots of the project
 
